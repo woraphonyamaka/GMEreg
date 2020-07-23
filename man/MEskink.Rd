@@ -62,6 +62,7 @@ y=alpha[1]+(alpha[2]*(x*(1-logis(gam,x,thres))))+(alpha[3]*(x*(logis(gam,x,thres
 
 MEskink(y,x,number="5",Z=10,V=5)
 }
+
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
 \keyword{ ~kwd1 }% use one of  RShowDoc("KEYWORDS")
